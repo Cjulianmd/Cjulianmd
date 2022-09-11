@@ -8,10 +8,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
-- 🎓 &nbsp; Estudio ingenieria de sistemas en el ITM.
-- 💼 &nbsp; con gran capacidad de aprendisaje y adaptacion. 
-- 🌱 &nbsp; Aprendiendo más sobre Arquitectura de sofware.
+- 🤔 &nbsp; Explore new technologies and develop software solutions and quick tricks.
+- 🎓 &nbsp; I study systems engineering at ITM.
+- 💼 &nbsp; with great capacity for learning and adaptation.
+- 🌱 &nbsp; Learning more about Software Architecture.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
