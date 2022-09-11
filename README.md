@@ -1,5 +1,11 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 <h2> Hey there! I'm julian.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
