@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
-<h2> Hey there! I'm julian.</h2>
+<h2> Hey there! I'm julian.</h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
