@@ -43,6 +43,6 @@
 
 <p align="center">
 </a>
-<a href="https://www.linkedin.com/in/julian-david-gallo-84437a208/"><img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/alejandro-ramirez-ciceros/)"></a>
+<a href="https://www.linkedin.com/in/julian-david-gallo-84437a208/"><img alt="LinkedIn" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
