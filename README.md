@@ -44,5 +44,5 @@
 <p align="center">
 </a>
 <a href="https://www.linkedin.com/in/julian-david-gallo-84437a208/"><img width="37px" alt="LinkedIn" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></a>
-<a href="julian.gallo.v@gmail.com"><img width="300px" alt="Email" src="https://img.shields.io/badge/Email-julian.gallo.v@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="julian.gallo.v@gmail.com"><img width="280px" alt="Email" src="https://img.shields.io/badge/Email-julian.gallo.v@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
