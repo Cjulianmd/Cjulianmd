@@ -44,5 +44,5 @@
 <p align="center">
 </a>
 <a href="https://www.linkedin.com/in/julian-david-gallo-84437a208/"><img width="70px" alt="LinkedIn" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="[https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
