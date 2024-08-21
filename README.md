@@ -1,8 +1,5 @@
 
 <div align="center" width="50">
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Bu2NvRJ"><a href="//imgur.com/a/Bu2NvRJ">Welcome Github</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 </div>
 <h2> Hey there! I'm julian.<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
